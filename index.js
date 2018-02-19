@@ -17,4 +17,4 @@ function holidayCountdown(holiday, days)
 }
 MerryChristmasTo("Daniel")
 happyHolidayTo("Independence, Daniel")
-holidayCountdown()
+holidayCountdown("Mother's day",20)
