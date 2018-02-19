@@ -3,7 +3,7 @@
 describe('functions', () => {
   describe('MerryChristmas', () => {
     it('returns "Merry Christmas!"', () => {
-      expect(happyHolidays()).toEqual('Merry Christmas!')
+      expect(MerryChristmas()).toEqual('Merry Christmas!')
     })
   })
 
